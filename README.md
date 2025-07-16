@@ -1,5 +1,8 @@
 # retail_sale_project
 
+#![Retail Sales Analysis]()
+
+
 # 📊 Retail Sales SQL Project
 
 A comprehensive SQL project focused on data cleaning, exploration, and business insights generation using a retail sales dataset.
@@ -72,5 +75,6 @@ WHERE transaction_id IS NULL
    OR quantity IS NULL
    OR cogs IS NULL
    OR total_sale IS NULL;
+
 
 
