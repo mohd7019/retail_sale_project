@@ -1,6 +1,6 @@
 # retail_sale_project
 
-#![Retail Sales Analysis]()
+#![Retail Sales Analysis](dataset_retail_sale/shopping-logo-template-design-20c9f85533453e395255d951dd03f8be_screen.jpg)
 
 
 # 📊 Retail Sales SQL Project
